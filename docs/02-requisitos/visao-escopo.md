@@ -1,0 +1,2 @@
+# Visao e Escopo
+
